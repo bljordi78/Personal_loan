@@ -8,6 +8,11 @@
 # Data retrieved from Kaggle: https://www.kaggle.com/teertha/personal-loan-modeling
 #####################################################################################
 
+# PYTHON
+# EDA
+# XGBOOST
+
+
 This was a project where there was a request to choose a public dataset and determine a suitable predictive methodology to apply to this dataset.
 In this case, a dataset from Kaggle was chosen and EDA and XGBoost were applied to the data.
 
