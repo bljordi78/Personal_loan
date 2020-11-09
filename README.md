@@ -1,11 +1,11 @@
-PROJECT FOR DOMAIN APPLICATIONS OF PREDICTIVE ANALYTICS
-POSTGRADUATE IN SCIENCE IN DATA ANALYTICS
-NATIONAL COLLEGE OF IRELAND
-AUTHOR: JORDI BATLLE LALANDE
+# PROJECT FOR DOMAIN APPLICATIONS OF PREDICTIVE ANALYTICS
+# POSTGRADUATE IN SCIENCE IN DATA ANALYTICS
+# NATIONAL COLLEGE OF IRELAND
+# AUTHOR: JORDI BATLLE LALANDE
 #####################################################################################
-Personal Loan Modeling
-Predict whether a customer will respond to a Personal Loan Campaign!
-Data retrieved from Kaggle: https://www.kaggle.com/teertha/personal-loan-modeling
+# Personal Loan Modeling
+# Predict whether a customer will respond to a Personal Loan Campaign!
+# Data retrieved from Kaggle: https://www.kaggle.com/teertha/personal-loan-modeling
 #####################################################################################
 
 # PYTHON
